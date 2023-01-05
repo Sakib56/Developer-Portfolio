@@ -175,3 +175,44 @@
         margin-top: 130px;
     }
     /* resume section */
+    .resume-content{
+        display: flex;
+        gap: 24px;
+        padding: 30px;
+    }
+    .resume-title{
+        font-weight: 700;
+        font-size: 30px;
+        color: #474747;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .resume .title{
+        font-weight: 700;
+        font-size: 25px;
+        color: #474747
+        }
+    .resume .sub-title{
+        font-weight: 600;
+        font-size: 20px;
+        color: #757575;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .resume .description{
+        font-weight: 400;
+        font-size: 16px;
+        color: #757575;
+        margin-bottom: 10px;
+    }
+    .resume-item{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .padding-content{
+        padding: 0 50px;
+    }
+    .resume-btn{
+        margin-top: 30px;
+        text-align: center;
+    }
